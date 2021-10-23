@@ -1,0 +1,16 @@
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.exe
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.deps.json
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.runtimeconfig.json
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.runtimeconfig.dev.json
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.dll
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\ref\Exam23Part2.dll
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\bin\Debug\net5.0\Exam23Part2.pdb
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.csprojAssemblyReference.cache
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.AssemblyInfoInputs.cache
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.AssemblyInfo.cs
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.csproj.CoreCompileInputs.cache
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.dll
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\ref\Exam23Part2.dll
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.pdb
+C:\Users\bginf\source\repos\Exam23\Exam23Part2\obj\Debug\net5.0\Exam23Part2.genruntimeconfig.cache
